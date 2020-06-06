@@ -36,11 +36,11 @@ date: 2020-06-06
 * What are protests?  
 *"A protest carried out while toeing the line set by the authorities is not a protest at all."*
 
-* Freedom is never to be taken for granted.  
-*"If you never paid the price of your freedom, somebody else did it for you."*
-
 * Inspired by the famous quote by Netaji Subhash Chandra Bose:  
 *"There is only one price of freedom: blood! It has always been that way."*
+
+* Freedom is never to be taken for granted.  
+*"If you never paid the price of your freedom, somebody else did it for you."*
 
 * I would go for democracy any day because it is fair.  
 *"I love democracy for it does not give you what is the best but rather what you deserve."*
