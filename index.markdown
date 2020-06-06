@@ -2,12 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: Sashwat Tanay
 ---
 ![MyPhoto](https://i.imgur.com/1fMF0dn.png)
 
-Hello! I am a graduate student in the Department of Physics and Astronomy at the University of Mississippi. My research areas center around gravitational physics. You can reach me at FirstNameLastname@gmail.com. Additionally, you can find me on
+Hello! I am a graduate student in the Department of Physics and Astronomy at the University of Mississippi. My research areas center around gravitational physics. You can reach me at FirstNameLastName@gmail.com. Additionally, you can find me on
 
 [Google Scholar](https://scholar.google.co.in/citations?user=EiZB2pgAAAAJ&hl=en&oi=ao)
 
