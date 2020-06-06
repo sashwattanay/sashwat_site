@@ -15,8 +15,6 @@ Hello! I am a graduate student in the [Department of Physics and Astronomy](http
 
 [Stack Exchange](https://physics.stackexchange.com/users/29315/sashwat-tanay)
 
-[LinkedIn](https://in.linkedin.com/in/sashwat-tanay-b337b668)
-
 [Quora](https://www.quora.com/profile/Sashwat-Tanay)
 
 [Twitter](https://twitter.com/sashwattanay)
