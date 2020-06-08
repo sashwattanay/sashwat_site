@@ -9,7 +9,7 @@ date: 2020-06-06
 * My realization during my 2018 Indo-US round trip:  
 *"Money is not everything, but it's almost everything."*
 
-* Found a flaw with the famous quote by Billy Grahm and fixed it:  
+* Found a flaw with the famous quote by Billy Graham and fixed it:  
 *"When character is lost, nothing is lost; when health is lost, something is lost; when wealth is lost, all is lost."*
 
 * Used Einstein's axiom of relativity to moral science to arrive at the Great Axiom of Moral Science  
