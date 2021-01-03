@@ -50,3 +50,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+url: "https://sashwattanay.github.io/sashwat_site/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
