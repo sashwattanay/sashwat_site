@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Sashwat Tanay: personal webpage
+title: Sashwat Tanay (Personal Webpage)
 ---
 ![MyPhoto](https://i.imgur.com/1fMF0dn.png)
 
